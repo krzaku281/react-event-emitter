@@ -1,0 +1,6 @@
+.sidebar {
+    text-align: center;
+    background: lightgreen;
+    grid-column: 1 / 2;
+    grid-row: 2 / 3;
+}
